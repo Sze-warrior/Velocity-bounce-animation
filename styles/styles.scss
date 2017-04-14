@@ -1,0 +1,11 @@
+@import "variables";
+@import "main";
+@import "header";
+@import "mixins";
+
+.intro-container{
+
+	p{
+		opacity:0;
+	}
+}
